@@ -1,7 +1,7 @@
 ## Hiya, I'm Atomix 👋
 
 - 🔭 I’m currently working on - **[Alkaline | Beta](https://atomix.one/alkaline)**
-- 🌱 I’m currently learning - **C# + WinUi3 & ShadCN + JS**
+- 🌱 I’m currently learning - **C# + WinUi3  &  ShadCN + JS**
 <br>
 
 - 💬 Ask me about - **[Cyber Security](https://discord.gg/rrb9hDky29)**
