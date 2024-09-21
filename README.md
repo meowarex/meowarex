@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 <p dir="auto">
   <a href="https://github.com/A-T-O-M-I-X/Sapphire-Player">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Sapphire-Player&bg_color=0c1014&theme=dark&width=300" style="max-width: 100%; margin-right: 10px;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Sapphire-Player&bg_color=0c1014&theme=dark&width=200" style="max-width: 100%; margin-right: 10px;">
   </a>
   <a href="https://github.com/A-T-O-M-I-X/Opal">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Opal&bg_color=0c1014&theme=dark&width=300" style="max-width: 100%;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Opal&bg_color=0c1014&theme=dark&width=200" style="max-width: 100%;">
   </a>
 </p>
 
