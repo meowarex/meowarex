@@ -1,19 +1,13 @@
-## Hi there 👋
+## Hiya, I'm Atomix 👋
 
-<!--
-**A-T-O-M-I-X/A-T-O-M-I-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on - **[Alkaline | Beta](https://atomix.one/alkaline)**
+- 🌱 I’m currently learning - **C# & ShadCN + JS**
+<br>
 
-Here are some ideas to get you started:
+- 💬 Ask me about - **[Cyber Security](https://discord.gg/rrb9hDky29)**
+- ⚡ Fun fact: **Sparkling Water is just Liquid TV Static!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 ## 🚀 Featured Repositories
 
 <p dir="auto">
@@ -35,9 +29,8 @@ Here are some ideas to get you started:
   </a>
   
   <a href="https://github.com/Frost-Lord/">
-    <img align="left" src="http://23.27.6.132:9000/?username=A-T-O-M-I-X&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&bg_color=0c1014" width="300">
+    <img align="left" src="http://23.27.6.132:9000/?username=A-T-O-M-I-X&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&bg_color=0c1014" width="400">
   </a>
 </p>
 
 <br clear="left" />
-
