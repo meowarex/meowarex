@@ -1,7 +1,7 @@
 ## Hiya, I'm Atomix 👋
 
 - 🔭 I’m currently working on - **[Alkaline | Beta](https://atomix.one/alkaline)**
-- 🌱 I’m currently learning - **C# & ShadCN + JS**
+- 🌱 I’m currently learning - **C# + WinUi3  &  ShadCN + JS**
 <br>
 
 - 💬 Ask me about - **[Cyber Security](https://discord.gg/rrb9hDky29)**
@@ -14,10 +14,20 @@
   <a href="https://github.com/A-T-O-M-I-X/Sapphire-Player">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Sapphire-Player&icon_color=FF0097&bg_color=22001B&theme=dark" width="350" style="margin-right: 10px;">
   </a>
-  <a href="https://github.com/A-T-O-M-I-X/Opal">
+  <a href="https://github.com/A-T-O-M-I-X/Alkaline-GTK">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Alkaline-GTK&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
 </p>
+
+<p dir="auto">
+  <a href="https://github.com/A-T-O-M-I-X/TobiiTile">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=TobiiTile&icon_color=FF0097&bg_color=22001B&theme=dark" width="350" style="margin-right: 10px;">
+  </a>
+  <a href="https://github.com/A-T-O-M-I-X/Seafile-Theme">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Seafile-Theme&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
+  </a>
+</p>
+
 
 <br clear="left" />
 
