@@ -17,17 +17,14 @@
   <a href="https://github.com/A-T-O-M-I-X/Alkaline-GTK">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Alkaline-GTK&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
-</p>
-
-<p dir="auto">
-  <a href="https://github.com/A-T-O-M-I-X/TobiiTile">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=TobiiTile&icon_color=FF0097&bg_color=22001B&theme=dark" width="350" style="margin-right: 10px;">
+  <br clear="left" />
+    <a href="https://github.com/A-T-O-M-I-X/TobiiTile">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=TobiiTile&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
   <a href="https://github.com/A-T-O-M-I-X/Seafile-Theme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=A-T-O-M-I-X&repo=Seafile-Theme&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
 </p>
-
 
 <br clear="left" />
 
