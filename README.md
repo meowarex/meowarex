@@ -33,12 +33,12 @@
 ## 📊 GitHub Stats
 
 <p dir="auto">
-  <a href="https://github.com/search?q=owner%3AA-T-O-M-I-X+language%3AVue+&type=code">
-    <img align="left" src="http://23.27.6.132:9000/top-langs/?username=A-T-O-M-I-X&langs_count=8&hide=css,scss,html,php,ejs&title_color=ffffff&text_color=c9cacc&icon_color=FF0097&bg_color=22001B&layout=compact" width="300" style="margin-right: 40px;">
+  <a href="https://github.com/search?q=owner%3Ameowarex+language%3AVue+&type=code">
+    <img align="left" src="http://23.27.6.132:9000/top-langs/?username=meowarex&langs_count=8&hide=css,scss,html,php,ejs&title_color=ffffff&text_color=c9cacc&icon_color=FF0097&bg_color=22001B&layout=compact" width="300" style="margin-right: 40px;">
   </a>
   
   <a href="https://atomix.one">
-    <img align="left" src="http://23.27.6.132:9000/?username=A-T-O-M-I-X&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&icon_color=FF0097&bg_color=22001B" width="400">
+    <img align="left" src="http://23.27.6.132:9000/?username=meowarex&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=dark&icon_color=FF0097&bg_color=22001B" width="400">
   </a>
 </p>
 
