@@ -1,4 +1,4 @@
-## Hiya, I'm Atomix/Meoware 👋
+## Hiya, I'm Meoware 👋
 
 - 🔭 I’m currently working on - **[Alkaline | Beta](https://atomix.one/alkaline)**
 - 🌱 I’m currently learning - **C# + WinUi3  &  ShadCN + JS**
