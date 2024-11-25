@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on - **[Alkaline | Beta](https://atomix.one/alkaline)**
 - 🌱 I’m currently learning - **C# + WinUi3  &  Python**
 - 💬 Ask me about - **[Cyber Security](https://discord.gg/d2n6ndY65x)**
+
 - ⚡ Fun fact: **Sparkling Water is just Liquid TV Static!**
 
 
