@@ -1,8 +1,8 @@
 ## Hiya, I'm Meoware 👋
 
 - 🔭 I’m currently working on - **[Alkaline | Beta](https://atomix.one/alkaline)**
-- 🌱 I’m currently learning - **C# + WinUi3  &  ShadCN + JS**
-- 💬 Ask me about - **[Cyber Security](https://discord.gg/rrb9hDky29)**
+- 🌱 I’m currently learning - **C# + WinUi3  &  Python**
+- 💬 Ask me about - **[Cyber Security](https://discord.gg/d2n6ndY65x)**
 - ⚡ Fun fact: **Sparkling Water is just Liquid TV Static!**
 
 
@@ -23,6 +23,16 @@
   </a>
   <a href="https://github.com/meowarex/Seafile-Theme">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meowarex&repo=Seafile-Theme&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
+  </a>
+</p>
+  <br clear="left" />
+  
+  <br clear="left" />
+    <a href="https://github.com/meowarex/UserTimezones">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meowarex&repo=UserTimezones&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
+  </a>
+  <a href="https://github.com/meowarex/RED-FLUX">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meowarex&repo=RED-FLUX&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
 </p>
 
