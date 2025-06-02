@@ -32,8 +32,8 @@
     <a href="https://github.com/meowarex/UserTimezones">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meowarex&repo=UserTimezones&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
-  <a href="https://github.com/meowarex/RED-FLUX">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meowarex&repo=RED-FLUX&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
+  <a href="https://github.com/meowarex/TidalLuna-Plugins">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=meowarex&repo=TidalLuna-Plugins&icon_color=FF0097&bg_color=22001B&theme=dark" width="350">
   </a>
 </p>
 
