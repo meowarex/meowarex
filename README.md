@@ -1,6 +1,6 @@
 ## Hiya, I'm Meoware 👋
 
-- 🔭 I’m currently working on - **[Ruby Torrent](https://atomix.one/ruby)**
+- 🔭 I’m currently working on - **[Ruby Tuner](https://atomix.one/ruby)**
 - 🌱 I’m currently learning - **Next.js  &  Rust**
 - 💬 Ask me about - **[Cyber Security](https://discord.gg/d2n6ndY65x)**
 
